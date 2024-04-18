@@ -12,7 +12,7 @@
 </a>
 </p>
 
-- 🔭 I’m currently working on: standardizing data frameworks
+- 🔭 I’m currently working on: standardizing data exploration
 - 🌱 I’m currently learning: how to build an online project portfolio
 - 👯 I’m looking to collaborate on: analytics and machine learning use cases in the financial and medical industries.
 - 💬 Ask me about: financial credit risk and building bespoke analytics.
