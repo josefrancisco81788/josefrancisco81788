@@ -4,6 +4,5 @@
 - 🌱 I’m currently learning: how to build an online project portfolio
 - 👯 I’m looking to collaborate on: analytics and machine learning use cases in the financial and medical industries.
 - 💬 Ask me about: financial credit risk and building bespoke analytics.
-- 📫 How to reach me: [linkedin]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jose-francisco-066a8023/))
 - ⚡ Fun fact: audible is my jam
 
