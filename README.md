@@ -22,3 +22,6 @@
 - 💬 Ask me about: financial credit risk and building bespoke analytics.
 - ⚡ Fun fact: audible is my jam
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
