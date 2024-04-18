@@ -12,6 +12,10 @@
 </a>
 </p>
 
+<p align="center">
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg3MThpaDA5Z2g0MHc3Zjl1OHRvOWp6OTd5MTFkNWU4M3ZsdnMxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fmYFj3ym5Txvy/giphy.gif"/>
+</p>
+
 - 🔭 I’m currently working on: standardizing data exploration
 - 🌱 I’m currently learning: how to build an online project portfolio
 - 👯 I’m looking to collaborate on: analytics and machine learning use cases in the financial and medical industries.
