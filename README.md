@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Thanks%20for%20Dropping%20In!&fontSize=50&animation=fadeIn&desc=Let's%20Talk%20Data&textColor=ffffff&descAlignY=80)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Thanks%20for%20Dropping%20In!&fontSize=50&animation=fadeIn&descAlignY=80)"/>
+</p>
+
+<h1 align="center">
+  Let's Talk Data!💬
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-francisco-066a8023/">
