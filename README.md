@@ -21,10 +21,10 @@
 
 ```yaml
 - 🔭 I’m currently working on: standardizing data exploration
-- 🌱 I’m currently learning: how to build an online project portfolio
-- 👯 I’m looking to collaborate on: analytics and machine learning use cases in the financial and medical industries.
-- 💬 Ask me about: financial credit risk and building bespoke analytics.
-- ⚡ Fun fact: audible is my jam
+- 🌱 I’m currently learning: about AML clustering techniques
+- 👯 I’m looking to collaborate on: analytics and machine learning use cases in the financial and medical industries
+- 💬 Ask me about: financial credit risk and building bespoke analytics
+- ⚡ Hobby: filling audible and steam with stuff I'll never get to
 ```
 
 <p align="center">
