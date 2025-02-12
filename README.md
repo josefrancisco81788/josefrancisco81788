@@ -23,7 +23,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|------------|------------|------|
-| **Credit Risk Prediction** | Built a ML model to assess financial creditworthiness | Python, Scikit-learn, XGBoost | [Repo](https://github.com/yourusername/credit-risk) |
+| **Credit Risk Prediction** | Built a ML model to assess financial creditworthiness | Python, Scikit-learn, Decision Trees, Random Forest, XGBoost | [Repo](https://github.com/josefrancisco81788/case_study_credit_rating01) |
 | **Customer Churn Analysis** | Exploratory data analysis & prediction for customer retention | SQL, Pandas, TensorFlow | [Repo](https://github.com/yourusername/churn-analysis) |
 | **NLP Sentiment Analysis** | Analyzing customer sentiment using NLP techniques | Python, Hugging Face, NLTK | [Repo](https://github.com/yourusername/nlp-sentiment) |
 | **A/B Testing Framework** | Developed a scalable A/B testing analytics dashboard | Python, Statsmodels, Streamlit | [Repo](https://github.com/yourusername/ab-testing) |
