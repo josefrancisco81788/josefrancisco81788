@@ -7,7 +7,18 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Something About Me</h2>
+## 👨🏻‍💻 About Me
+
+🎯 **Data Scientist with extensive experience in machine learning, data pipeline deployment, and analytics for financial institutions.**  
+🚀 Proven track record in boosting operational efficiency, accelerating time-to-insight, and driving revenue through data-driven decision-making.  
+📊 Adept at **Python, R, and Tableau solutions**, with expertise in designing impactful dashboards and advanced predictive models.  
+✅ **Authorized to work in the UK without sponsorship.**  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jose-francisco81788/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ```yaml
 - 🔭 I’m currently working on: standardizing data exploration
