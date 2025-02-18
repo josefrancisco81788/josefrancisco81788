@@ -36,8 +36,7 @@
 |---------|------------|------------|------|
 | **Credit Risk Prediction** | Built a ML model to assess financial creditworthiness | Python, Scikit-learn, Decision Trees, Random Forest, XGBoost | [Repo](https://github.com/josefrancisco81788/case_study_credit_rating01) |
 | **Anti Money Laundering** | Exploratory data analysis & prediction for AML dataset | Python, Scikit-learn, Classification | [Repo](https://github.com/josefrancisco81788/case_study_antimoney_laundering01) |
-| **NLP Sentiment Analysis** | Analyzing customer sentiment using NLP techniques | Python, Hugging Face, NLTK | [Repo](https://github.com/yourusername/nlp-sentiment) |
-| **A/B Testing Framework** | Developed a scalable A/B testing analytics dashboard | Python, Statsmodels, Streamlit | [Repo](https://github.com/yourusername/ab-testing) |
+| **Machine Learning for Bank Loans** | Test multiple ML models on a synthetic dataset. | Python, Decision Tree, Random Forest, AdaBoost, SVM, GaussianNB | [Repo](https://github.com/yourusername/nlp-sentiment) |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
