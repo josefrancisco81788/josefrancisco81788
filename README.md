@@ -35,6 +35,7 @@
 | Project | Description | Tech Stack | Link |
 |---------|------------|------------|------|
 | **Testing Trading Strategies** | Test multiple stock trading strategies on stock data. | Python, Decision Tree, Random Forest, AdaBoost, SVM, GaussianNB, HTML | [Repo](https://github.com/josefrancisco81788/case_study_trading_strats01) |
+| **Cargo Data Analysis** | Analyze Cargo Dataset in Insurance Context. | Python, Logistic Regression, Linear Regression, Random Forest, XGBoost | [Repo](https://github.com/josefrancisco81788/case_study_cargo_data01) |
 | **Credit Risk Prediction** | Built a ML model to assess financial creditworthiness | Python, Scikit-learn, Decision Trees, Random Forest, XGBoost | [Repo](https://github.com/josefrancisco81788/case_study_credit_rating01) |
 | **Anti Money Laundering** | Exploratory data analysis & prediction for AML dataset | Python, Scikit-learn, Classification | [Repo](https://github.com/josefrancisco81788/case_study_antimoney_laundering01) |
 | **Machine Learning for Bank Loans** | Test multiple ML models on a synthetic dataset. | Python, Decision Tree, Random Forest, AdaBoost, SVM, GaussianNB | [Repo](https://github.com/yourusername/nlp-sentiment) |
